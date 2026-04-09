@@ -6,8 +6,19 @@ import { useEffect, useState } from "react";
 
 export default function LandingPage() {
   const [hydrated, setHydrated] = useState(false);
+  const [playerId, setPlayerId] = useState<string | null>(null);
+  const [playerName, setPlayerName] = useState<string | null>(null);
 
   useEffect(() => {
+    const storedId = localStorage.getItem("player_id");
+    const storedName = localStorage.getItem("player_name");
+    if (storedId && storedName) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      setPlayerId(storedId);
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      setPlayerName(storedName);
+    }
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setHydrated(true);
   }, []);
 

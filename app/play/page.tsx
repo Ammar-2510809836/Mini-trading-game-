@@ -19,9 +19,12 @@ export default function StudentPage() {
     const storedId   = localStorage.getItem("player_id");
     const storedName = localStorage.getItem("player_name");
     if (storedId && storedName) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setPlayerId(storedId);
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setPlayerName(storedName);
     }
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setHydrated(true);
   }, []);
 

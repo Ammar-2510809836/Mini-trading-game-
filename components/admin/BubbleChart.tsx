@@ -15,8 +15,14 @@ import { GAME_CONFIG } from "@/lib/gameConfig";
 import { useEffect, useState } from "react";
 import { supabase, type Trade } from "@/lib/supabaseClient";
 
+interface BubbleData {
+  round: string;
+  "Market Price (Avg)": number | null;
+  "Fundamental Value": number;
+}
+
 export default function BubbleChart() {
-  const [data, setData] = useState<any[]>([]);
+  const [data, setData] = useState<BubbleData[]>([]);
 
   useEffect(() => {
     async function fetchData() {
