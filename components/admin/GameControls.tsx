@@ -45,10 +45,13 @@ export default function GameControls({ gameState, onStateChange }: GameControlsP
     
     setLoading(true);
     try {
-      // 1. Delete all trades
-      await supabase.from("trades").delete().neq("id", "00000000-0000-0000-0000-000000000000");
+      // 1. Delete all trades (foreign key depends on players, so delete trades first)
+      const { error: tradeErr } = await supabase.from("trades").delete().neq("id", "00000000-0000-0000-0000-000000000000");
+      if (tradeErr) throw tradeErr;
+
       // 2. Delete all players
-      await supabase.from("players").delete().neq("id", "00000000-0000-0000-0000-000000000000");
+      const { error: playerErr } = await supabase.from("players").delete().neq("id", "00000000-0000-0000-0000-000000000000");
+      if (playerErr) throw playerErr;
       // 3. Reset game state
       await updateState({ 
         current_tick: 0, 
