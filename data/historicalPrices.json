@@ -1,0 +1,2557 @@
+[
+  {
+    "tick": 0,
+    "date": "2025-01-01",
+    "BTC_price": 95000,
+    "Gold_price": 2650,
+    "Oil_price": 74
+  },
+  {
+    "tick": 1,
+    "date": "2025-01-02",
+    "BTC_price": 93603.16,
+    "Gold_price": 2655.24,
+    "Oil_price": 74.57
+  },
+  {
+    "tick": 2,
+    "date": "2025-01-03",
+    "BTC_price": 96026.69,
+    "Gold_price": 2644.22,
+    "Oil_price": 75.05
+  },
+  {
+    "tick": 3,
+    "date": "2025-01-04",
+    "BTC_price": 97769.95,
+    "Gold_price": 2632.11,
+    "Oil_price": 72.84
+  },
+  {
+    "tick": 4,
+    "date": "2025-01-05",
+    "BTC_price": 100133.73,
+    "Gold_price": 2648.18,
+    "Oil_price": 71.88
+  },
+  {
+    "tick": 5,
+    "date": "2025-01-06",
+    "BTC_price": 99975.09,
+    "Gold_price": 2659.81,
+    "Oil_price": 71.46
+  },
+  {
+    "tick": 6,
+    "date": "2025-01-07",
+    "BTC_price": 102696.93,
+    "Gold_price": 2715.05,
+    "Oil_price": 73.23
+  },
+  {
+    "tick": 7,
+    "date": "2025-01-08",
+    "BTC_price": 102346.08,
+    "Gold_price": 2725.35,
+    "Oil_price": 70.47
+  },
+  {
+    "tick": 8,
+    "date": "2025-01-09",
+    "BTC_price": 95754.78,
+    "Gold_price": 2731.52,
+    "Oil_price": 71.77
+  },
+  {
+    "tick": 9,
+    "date": "2025-01-10",
+    "BTC_price": 99826.29,
+    "Gold_price": 2700.4,
+    "Oil_price": 71.66
+  },
+  {
+    "tick": 10,
+    "date": "2025-01-11",
+    "BTC_price": 105109.48,
+    "Gold_price": 2716.52,
+    "Oil_price": 70.84
+  },
+  {
+    "tick": 11,
+    "date": "2025-01-12",
+    "BTC_price": 113469.89,
+    "Gold_price": 2747.79,
+    "Oil_price": 70.82
+  },
+  {
+    "tick": 12,
+    "date": "2025-01-13",
+    "BTC_price": 110100.91,
+    "Gold_price": 2738.55,
+    "Oil_price": 71.21
+  },
+  {
+    "tick": 13,
+    "date": "2025-01-14",
+    "BTC_price": 104075.18,
+    "Gold_price": 2748,
+    "Oil_price": 71.91
+  },
+  {
+    "tick": 14,
+    "date": "2025-01-15",
+    "BTC_price": 101515.73,
+    "Gold_price": 2780.19,
+    "Oil_price": 69.4
+  },
+  {
+    "tick": 15,
+    "date": "2025-01-16",
+    "BTC_price": 100022.14,
+    "Gold_price": 2785.59,
+    "Oil_price": 69.58
+  },
+  {
+    "tick": 16,
+    "date": "2025-01-17",
+    "BTC_price": 101250.36,
+    "Gold_price": 2805,
+    "Oil_price": 68.14
+  },
+  {
+    "tick": 17,
+    "date": "2025-01-18",
+    "BTC_price": 107659.7,
+    "Gold_price": 2777.52,
+    "Oil_price": 68.2
+  },
+  {
+    "tick": 18,
+    "date": "2025-01-19",
+    "BTC_price": 107404.34,
+    "Gold_price": 2755.54,
+    "Oil_price": 69.76
+  },
+  {
+    "tick": 19,
+    "date": "2025-01-20",
+    "BTC_price": 112544.1,
+    "Gold_price": 2744.08,
+    "Oil_price": 68.65
+  },
+  {
+    "tick": 20,
+    "date": "2025-01-21",
+    "BTC_price": 110656.07,
+    "Gold_price": 2716.9,
+    "Oil_price": 68.26
+  },
+  {
+    "tick": 21,
+    "date": "2025-01-22",
+    "BTC_price": 117027.4,
+    "Gold_price": 2706.96,
+    "Oil_price": 67.89
+  },
+  {
+    "tick": 22,
+    "date": "2025-01-23",
+    "BTC_price": 125461.01,
+    "Gold_price": 2740.01,
+    "Oil_price": 70
+  },
+  {
+    "tick": 23,
+    "date": "2025-01-24",
+    "BTC_price": 118549.05,
+    "Gold_price": 2752.03,
+    "Oil_price": 69.8
+  },
+  {
+    "tick": 24,
+    "date": "2025-01-25",
+    "BTC_price": 114692.34,
+    "Gold_price": 2736.31,
+    "Oil_price": 69.63
+  },
+  {
+    "tick": 25,
+    "date": "2025-01-26",
+    "BTC_price": 114523.56,
+    "Gold_price": 2745.55,
+    "Oil_price": 67.64
+  },
+  {
+    "tick": 26,
+    "date": "2025-01-27",
+    "BTC_price": 108263.88,
+    "Gold_price": 2743.47,
+    "Oil_price": 67.75
+  },
+  {
+    "tick": 27,
+    "date": "2025-01-28",
+    "BTC_price": 102174.36,
+    "Gold_price": 2704.16,
+    "Oil_price": 69.12
+  },
+  {
+    "tick": 28,
+    "date": "2025-01-29",
+    "BTC_price": 100195.95,
+    "Gold_price": 2684.7,
+    "Oil_price": 67.86
+  },
+  {
+    "tick": 29,
+    "date": "2025-01-30",
+    "BTC_price": 96643.93,
+    "Gold_price": 2698.49,
+    "Oil_price": 68.06
+  },
+  {
+    "tick": 30,
+    "date": "2025-01-31",
+    "BTC_price": 94347.36,
+    "Gold_price": 2735.01,
+    "Oil_price": 66.86
+  },
+  {
+    "tick": 31,
+    "date": "2025-02-01",
+    "BTC_price": 98734.52,
+    "Gold_price": 2728.72,
+    "Oil_price": 66.16
+  },
+  {
+    "tick": 32,
+    "date": "2025-02-02",
+    "BTC_price": 99984.69,
+    "Gold_price": 2749.55,
+    "Oil_price": 66.26
+  },
+  {
+    "tick": 33,
+    "date": "2025-02-03",
+    "BTC_price": 94379.59,
+    "Gold_price": 2712.28,
+    "Oil_price": 63.93
+  },
+  {
+    "tick": 34,
+    "date": "2025-02-04",
+    "BTC_price": 97255.23,
+    "Gold_price": 2725.97,
+    "Oil_price": 64.39
+  },
+  {
+    "tick": 35,
+    "date": "2025-02-05",
+    "BTC_price": 87923.58,
+    "Gold_price": 2719.41,
+    "Oil_price": 65.86
+  },
+  {
+    "tick": 36,
+    "date": "2025-02-06",
+    "BTC_price": 83648.53,
+    "Gold_price": 2697.45,
+    "Oil_price": 68.94
+  },
+  {
+    "tick": 37,
+    "date": "2025-02-07",
+    "BTC_price": 81170.31,
+    "Gold_price": 2694.83,
+    "Oil_price": 69.07
+  },
+  {
+    "tick": 38,
+    "date": "2025-02-08",
+    "BTC_price": 85063.69,
+    "Gold_price": 2709.63,
+    "Oil_price": 67.67
+  },
+  {
+    "tick": 39,
+    "date": "2025-02-09",
+    "BTC_price": 87491.63,
+    "Gold_price": 2720.99,
+    "Oil_price": 69.33
+  },
+  {
+    "tick": 40,
+    "date": "2025-02-10",
+    "BTC_price": 90702.92,
+    "Gold_price": 2699.19,
+    "Oil_price": 71.69
+  },
+  {
+    "tick": 41,
+    "date": "2025-02-11",
+    "BTC_price": 93756.38,
+    "Gold_price": 2706.55,
+    "Oil_price": 72.43
+  },
+  {
+    "tick": 42,
+    "date": "2025-02-12",
+    "BTC_price": 92609.39,
+    "Gold_price": 2712.65,
+    "Oil_price": 72.72
+  },
+  {
+    "tick": 43,
+    "date": "2025-02-13",
+    "BTC_price": 92924.12,
+    "Gold_price": 2675.24,
+    "Oil_price": 73.82
+  },
+  {
+    "tick": 44,
+    "date": "2025-02-14",
+    "BTC_price": 92208.53,
+    "Gold_price": 2647.98,
+    "Oil_price": 75.09
+  },
+  {
+    "tick": 45,
+    "date": "2025-02-15",
+    "BTC_price": 96334.98,
+    "Gold_price": 2646.69,
+    "Oil_price": 73.14
+  },
+  {
+    "tick": 46,
+    "date": "2025-02-16",
+    "BTC_price": 93858.09,
+    "Gold_price": 2670.42,
+    "Oil_price": 73.66
+  },
+  {
+    "tick": 47,
+    "date": "2025-02-17",
+    "BTC_price": 102120.7,
+    "Gold_price": 2695.44,
+    "Oil_price": 74.32
+  },
+  {
+    "tick": 48,
+    "date": "2025-02-18",
+    "BTC_price": 103468.15,
+    "Gold_price": 2669.63,
+    "Oil_price": 74.93
+  },
+  {
+    "tick": 49,
+    "date": "2025-02-19",
+    "BTC_price": 107411.31,
+    "Gold_price": 2682.34,
+    "Oil_price": 75.93
+  },
+  {
+    "tick": 50,
+    "date": "2025-02-20",
+    "BTC_price": 107612.27,
+    "Gold_price": 2681.46,
+    "Oil_price": 73.41
+  },
+  {
+    "tick": 51,
+    "date": "2025-02-21",
+    "BTC_price": 110075.75,
+    "Gold_price": 2714.19,
+    "Oil_price": 73.83
+  },
+  {
+    "tick": 52,
+    "date": "2025-02-22",
+    "BTC_price": 103288.38,
+    "Gold_price": 2688.24,
+    "Oil_price": 77.45
+  },
+  {
+    "tick": 53,
+    "date": "2025-02-23",
+    "BTC_price": 112411.4,
+    "Gold_price": 2682.44,
+    "Oil_price": 75.22
+  },
+  {
+    "tick": 54,
+    "date": "2025-02-24",
+    "BTC_price": 106991.18,
+    "Gold_price": 2664.41,
+    "Oil_price": 74.91
+  },
+  {
+    "tick": 55,
+    "date": "2025-02-25",
+    "BTC_price": 108168.79,
+    "Gold_price": 2671.28,
+    "Oil_price": 74.01
+  },
+  {
+    "tick": 56,
+    "date": "2025-02-26",
+    "BTC_price": 104157.01,
+    "Gold_price": 2677.76,
+    "Oil_price": 74.92
+  },
+  {
+    "tick": 57,
+    "date": "2025-02-27",
+    "BTC_price": 102727.44,
+    "Gold_price": 2692.11,
+    "Oil_price": 74.94
+  },
+  {
+    "tick": 58,
+    "date": "2025-02-28",
+    "BTC_price": 98816.67,
+    "Gold_price": 2702.04,
+    "Oil_price": 74.42
+  },
+  {
+    "tick": 59,
+    "date": "2025-03-01",
+    "BTC_price": 97350.5,
+    "Gold_price": 2697.77,
+    "Oil_price": 75.68
+  },
+  {
+    "tick": 60,
+    "date": "2025-03-02",
+    "BTC_price": 95614.88,
+    "Gold_price": 2709.7,
+    "Oil_price": 75.55
+  },
+  {
+    "tick": 61,
+    "date": "2025-03-03",
+    "BTC_price": 96265.34,
+    "Gold_price": 2732.34,
+    "Oil_price": 76.34
+  },
+  {
+    "tick": 62,
+    "date": "2025-03-04",
+    "BTC_price": 94802.7,
+    "Gold_price": 2714.32,
+    "Oil_price": 75.87
+  },
+  {
+    "tick": 63,
+    "date": "2025-03-05",
+    "BTC_price": 99154.87,
+    "Gold_price": 2703.31,
+    "Oil_price": 76.66
+  },
+  {
+    "tick": 64,
+    "date": "2025-03-06",
+    "BTC_price": 101185.46,
+    "Gold_price": 2710.92,
+    "Oil_price": 76.27
+  },
+  {
+    "tick": 65,
+    "date": "2025-03-07",
+    "BTC_price": 105026.19,
+    "Gold_price": 2708,
+    "Oil_price": 76.45
+  },
+  {
+    "tick": 66,
+    "date": "2025-03-08",
+    "BTC_price": 103355.06,
+    "Gold_price": 2758.89,
+    "Oil_price": 76.26
+  },
+  {
+    "tick": 67,
+    "date": "2025-03-09",
+    "BTC_price": 104659.27,
+    "Gold_price": 2749.88,
+    "Oil_price": 74.74
+  },
+  {
+    "tick": 68,
+    "date": "2025-03-10",
+    "BTC_price": 98349.6,
+    "Gold_price": 2738.09,
+    "Oil_price": 75.32
+  },
+  {
+    "tick": 69,
+    "date": "2025-03-11",
+    "BTC_price": 98678.32,
+    "Gold_price": 2740.96,
+    "Oil_price": 76.32
+  },
+  {
+    "tick": 70,
+    "date": "2025-03-12",
+    "BTC_price": 98308.62,
+    "Gold_price": 2755.97,
+    "Oil_price": 76.53
+  },
+  {
+    "tick": 71,
+    "date": "2025-03-13",
+    "BTC_price": 105965.54,
+    "Gold_price": 2722.59,
+    "Oil_price": 77.36
+  },
+  {
+    "tick": 72,
+    "date": "2025-03-14",
+    "BTC_price": 109655.46,
+    "Gold_price": 2722.81,
+    "Oil_price": 79.24
+  },
+  {
+    "tick": 73,
+    "date": "2025-03-15",
+    "BTC_price": 115310.8,
+    "Gold_price": 2730.41,
+    "Oil_price": 81.47
+  },
+  {
+    "tick": 74,
+    "date": "2025-03-16",
+    "BTC_price": 115681.96,
+    "Gold_price": 2725.86,
+    "Oil_price": 81.79
+  },
+  {
+    "tick": 75,
+    "date": "2025-03-17",
+    "BTC_price": 111692.39,
+    "Gold_price": 2716.88,
+    "Oil_price": 81.55
+  },
+  {
+    "tick": 76,
+    "date": "2025-03-18",
+    "BTC_price": 109940.58,
+    "Gold_price": 2702.23,
+    "Oil_price": 82.52
+  },
+  {
+    "tick": 77,
+    "date": "2025-03-19",
+    "BTC_price": 109153.45,
+    "Gold_price": 2705.93,
+    "Oil_price": 81.17
+  },
+  {
+    "tick": 78,
+    "date": "2025-03-20",
+    "BTC_price": 109875.27,
+    "Gold_price": 2694.11,
+    "Oil_price": 81
+  },
+  {
+    "tick": 79,
+    "date": "2025-03-21",
+    "BTC_price": 104443.39,
+    "Gold_price": 2693.06,
+    "Oil_price": 79.77
+  },
+  {
+    "tick": 80,
+    "date": "2025-03-22",
+    "BTC_price": 106902.58,
+    "Gold_price": 2716.46,
+    "Oil_price": 76.92
+  },
+  {
+    "tick": 81,
+    "date": "2025-03-23",
+    "BTC_price": 107349.56,
+    "Gold_price": 2760.39,
+    "Oil_price": 77.97
+  },
+  {
+    "tick": 82,
+    "date": "2025-03-24",
+    "BTC_price": 107264.33,
+    "Gold_price": 2788.14,
+    "Oil_price": 75.39
+  },
+  {
+    "tick": 83,
+    "date": "2025-03-25",
+    "BTC_price": 107045.12,
+    "Gold_price": 2792.44,
+    "Oil_price": 74.32
+  },
+  {
+    "tick": 84,
+    "date": "2025-03-26",
+    "BTC_price": 106152.62,
+    "Gold_price": 2812.44,
+    "Oil_price": 72.08
+  },
+  {
+    "tick": 85,
+    "date": "2025-03-27",
+    "BTC_price": 100796.4,
+    "Gold_price": 2837.08,
+    "Oil_price": 72.69
+  },
+  {
+    "tick": 86,
+    "date": "2025-03-28",
+    "BTC_price": 106955.32,
+    "Gold_price": 2836.49,
+    "Oil_price": 70.42
+  },
+  {
+    "tick": 87,
+    "date": "2025-03-29",
+    "BTC_price": 104607.05,
+    "Gold_price": 2784.44,
+    "Oil_price": 69.8
+  },
+  {
+    "tick": 88,
+    "date": "2025-03-30",
+    "BTC_price": 108503.26,
+    "Gold_price": 2763.36,
+    "Oil_price": 69.4
+  },
+  {
+    "tick": 89,
+    "date": "2025-03-31",
+    "BTC_price": 116149.28,
+    "Gold_price": 2768.86,
+    "Oil_price": 67.51
+  },
+  {
+    "tick": 90,
+    "date": "2025-04-01",
+    "BTC_price": 118813.55,
+    "Gold_price": 2748.71,
+    "Oil_price": 68.74
+  },
+  {
+    "tick": 91,
+    "date": "2025-04-02",
+    "BTC_price": 115901.7,
+    "Gold_price": 2737.06,
+    "Oil_price": 69.08
+  },
+  {
+    "tick": 92,
+    "date": "2025-04-03",
+    "BTC_price": 116409.37,
+    "Gold_price": 2753.39,
+    "Oil_price": 70.19
+  },
+  {
+    "tick": 93,
+    "date": "2025-04-04",
+    "BTC_price": 112287.06,
+    "Gold_price": 2776.11,
+    "Oil_price": 71.14
+  },
+  {
+    "tick": 94,
+    "date": "2025-04-05",
+    "BTC_price": 116212.72,
+    "Gold_price": 2773.41,
+    "Oil_price": 72.66
+  },
+  {
+    "tick": 95,
+    "date": "2025-04-06",
+    "BTC_price": 110529.72,
+    "Gold_price": 2747.93,
+    "Oil_price": 71.36
+  },
+  {
+    "tick": 96,
+    "date": "2025-04-07",
+    "BTC_price": 112452.23,
+    "Gold_price": 2764.25,
+    "Oil_price": 72.79
+  },
+  {
+    "tick": 97,
+    "date": "2025-04-08",
+    "BTC_price": 108113.53,
+    "Gold_price": 2764.85,
+    "Oil_price": 74.27
+  },
+  {
+    "tick": 98,
+    "date": "2025-04-09",
+    "BTC_price": 110437.21,
+    "Gold_price": 2806.84,
+    "Oil_price": 77.4
+  },
+  {
+    "tick": 99,
+    "date": "2025-04-10",
+    "BTC_price": 114011.87,
+    "Gold_price": 2792.92,
+    "Oil_price": 76.59
+  },
+  {
+    "tick": 100,
+    "date": "2025-04-11",
+    "BTC_price": 120646.37,
+    "Gold_price": 2789.87,
+    "Oil_price": 76.97
+  },
+  {
+    "tick": 101,
+    "date": "2025-04-12",
+    "BTC_price": 112891.71,
+    "Gold_price": 2809.72,
+    "Oil_price": 76.62
+  },
+  {
+    "tick": 102,
+    "date": "2025-04-13",
+    "BTC_price": 116415.32,
+    "Gold_price": 2766.44,
+    "Oil_price": 75.27
+  },
+  {
+    "tick": 103,
+    "date": "2025-04-14",
+    "BTC_price": 115243.61,
+    "Gold_price": 2754.91,
+    "Oil_price": 75.9
+  },
+  {
+    "tick": 104,
+    "date": "2025-04-15",
+    "BTC_price": 113984.01,
+    "Gold_price": 2749.37,
+    "Oil_price": 77.59
+  },
+  {
+    "tick": 105,
+    "date": "2025-04-16",
+    "BTC_price": 115462.2,
+    "Gold_price": 2739.15,
+    "Oil_price": 78.4
+  },
+  {
+    "tick": 106,
+    "date": "2025-04-17",
+    "BTC_price": 124318.91,
+    "Gold_price": 2738.15,
+    "Oil_price": 77.68
+  },
+  {
+    "tick": 107,
+    "date": "2025-04-18",
+    "BTC_price": 120396.17,
+    "Gold_price": 2732.88,
+    "Oil_price": 80.36
+  },
+  {
+    "tick": 108,
+    "date": "2025-04-19",
+    "BTC_price": 117398.61,
+    "Gold_price": 2728.61,
+    "Oil_price": 79.72
+  },
+  {
+    "tick": 109,
+    "date": "2025-04-20",
+    "BTC_price": 118771.07,
+    "Gold_price": 2689.64,
+    "Oil_price": 78.49
+  },
+  {
+    "tick": 110,
+    "date": "2025-04-21",
+    "BTC_price": 117322.63,
+    "Gold_price": 2644.41,
+    "Oil_price": 80.95
+  },
+  {
+    "tick": 111,
+    "date": "2025-04-22",
+    "BTC_price": 120481.55,
+    "Gold_price": 2690.73,
+    "Oil_price": 80.23
+  },
+  {
+    "tick": 112,
+    "date": "2025-04-23",
+    "BTC_price": 124004.67,
+    "Gold_price": 2728.46,
+    "Oil_price": 77.56
+  },
+  {
+    "tick": 113,
+    "date": "2025-04-24",
+    "BTC_price": 120926.51,
+    "Gold_price": 2747.25,
+    "Oil_price": 77.19
+  },
+  {
+    "tick": 114,
+    "date": "2025-04-25",
+    "BTC_price": 122173.66,
+    "Gold_price": 2746.61,
+    "Oil_price": 78
+  },
+  {
+    "tick": 115,
+    "date": "2025-04-26",
+    "BTC_price": 123809.12,
+    "Gold_price": 2701.24,
+    "Oil_price": 79.77
+  },
+  {
+    "tick": 116,
+    "date": "2025-04-27",
+    "BTC_price": 122854.25,
+    "Gold_price": 2701.99,
+    "Oil_price": 79.9
+  },
+  {
+    "tick": 117,
+    "date": "2025-04-28",
+    "BTC_price": 127993.61,
+    "Gold_price": 2701.79,
+    "Oil_price": 81.53
+  },
+  {
+    "tick": 118,
+    "date": "2025-04-29",
+    "BTC_price": 129334.81,
+    "Gold_price": 2699.77,
+    "Oil_price": 80.25
+  },
+  {
+    "tick": 119,
+    "date": "2025-04-30",
+    "BTC_price": 136200.59,
+    "Gold_price": 2715.32,
+    "Oil_price": 78.29
+  },
+  {
+    "tick": 120,
+    "date": "2025-05-01",
+    "BTC_price": 129864.58,
+    "Gold_price": 2732.44,
+    "Oil_price": 76.93
+  },
+  {
+    "tick": 121,
+    "date": "2025-05-02",
+    "BTC_price": 126376.99,
+    "Gold_price": 2774.53,
+    "Oil_price": 76.22
+  },
+  {
+    "tick": 122,
+    "date": "2025-05-03",
+    "BTC_price": 127064.33,
+    "Gold_price": 2810.04,
+    "Oil_price": 77.2
+  },
+  {
+    "tick": 123,
+    "date": "2025-05-04",
+    "BTC_price": 122139.68,
+    "Gold_price": 2761.54,
+    "Oil_price": 80.57
+  },
+  {
+    "tick": 124,
+    "date": "2025-05-05",
+    "BTC_price": 113543.91,
+    "Gold_price": 2760.76,
+    "Oil_price": 80.18
+  },
+  {
+    "tick": 125,
+    "date": "2025-05-06",
+    "BTC_price": 112802.27,
+    "Gold_price": 2744.21,
+    "Oil_price": 80.49
+  },
+  {
+    "tick": 126,
+    "date": "2025-05-07",
+    "BTC_price": 111270.09,
+    "Gold_price": 2773.61,
+    "Oil_price": 82.21
+  },
+  {
+    "tick": 127,
+    "date": "2025-05-08",
+    "BTC_price": 112117.91,
+    "Gold_price": 2794.79,
+    "Oil_price": 80.25
+  },
+  {
+    "tick": 128,
+    "date": "2025-05-09",
+    "BTC_price": 108412.24,
+    "Gold_price": 2766.91,
+    "Oil_price": 79.03
+  },
+  {
+    "tick": 129,
+    "date": "2025-05-10",
+    "BTC_price": 112829.54,
+    "Gold_price": 2750.42,
+    "Oil_price": 81.48
+  },
+  {
+    "tick": 130,
+    "date": "2025-05-11",
+    "BTC_price": 110776.21,
+    "Gold_price": 2737.94,
+    "Oil_price": 81.65
+  },
+  {
+    "tick": 131,
+    "date": "2025-05-12",
+    "BTC_price": 114612.82,
+    "Gold_price": 2737.43,
+    "Oil_price": 80.69
+  },
+  {
+    "tick": 132,
+    "date": "2025-05-13",
+    "BTC_price": 119782.16,
+    "Gold_price": 2737.33,
+    "Oil_price": 82.29
+  },
+  {
+    "tick": 133,
+    "date": "2025-05-14",
+    "BTC_price": 123058.73,
+    "Gold_price": 2751.62,
+    "Oil_price": 83.7
+  },
+  {
+    "tick": 134,
+    "date": "2025-05-15",
+    "BTC_price": 128136.61,
+    "Gold_price": 2709.98,
+    "Oil_price": 81.81
+  },
+  {
+    "tick": 135,
+    "date": "2025-05-16",
+    "BTC_price": 131944.36,
+    "Gold_price": 2696.54,
+    "Oil_price": 84.24
+  },
+  {
+    "tick": 136,
+    "date": "2025-05-17",
+    "BTC_price": 130323.96,
+    "Gold_price": 2696.99,
+    "Oil_price": 85.96
+  },
+  {
+    "tick": 137,
+    "date": "2025-05-18",
+    "BTC_price": 127235.52,
+    "Gold_price": 2696.21,
+    "Oil_price": 86.63
+  },
+  {
+    "tick": 138,
+    "date": "2025-05-19",
+    "BTC_price": 127059.82,
+    "Gold_price": 2674.48,
+    "Oil_price": 85.46
+  },
+  {
+    "tick": 139,
+    "date": "2025-05-20",
+    "BTC_price": 131829.93,
+    "Gold_price": 2673.72,
+    "Oil_price": 85.81
+  },
+  {
+    "tick": 140,
+    "date": "2025-05-21",
+    "BTC_price": 121402.45,
+    "Gold_price": 2671.25,
+    "Oil_price": 85.38
+  },
+  {
+    "tick": 141,
+    "date": "2025-05-22",
+    "BTC_price": 125645.64,
+    "Gold_price": 2692.56,
+    "Oil_price": 86.75
+  },
+  {
+    "tick": 142,
+    "date": "2025-05-23",
+    "BTC_price": 119741.59,
+    "Gold_price": 2669.88,
+    "Oil_price": 86.54
+  },
+  {
+    "tick": 143,
+    "date": "2025-05-24",
+    "BTC_price": 112135.39,
+    "Gold_price": 2696.89,
+    "Oil_price": 85.64
+  },
+  {
+    "tick": 144,
+    "date": "2025-05-25",
+    "BTC_price": 109184.72,
+    "Gold_price": 2705.13,
+    "Oil_price": 82.07
+  },
+  {
+    "tick": 145,
+    "date": "2025-05-26",
+    "BTC_price": 110587.49,
+    "Gold_price": 2723.65,
+    "Oil_price": 83.53
+  },
+  {
+    "tick": 146,
+    "date": "2025-05-27",
+    "BTC_price": 103503.74,
+    "Gold_price": 2718.73,
+    "Oil_price": 84.68
+  },
+  {
+    "tick": 147,
+    "date": "2025-05-28",
+    "BTC_price": 99869.45,
+    "Gold_price": 2697.68,
+    "Oil_price": 83.79
+  },
+  {
+    "tick": 148,
+    "date": "2025-05-29",
+    "BTC_price": 98288.52,
+    "Gold_price": 2687.78,
+    "Oil_price": 86.04
+  },
+  {
+    "tick": 149,
+    "date": "2025-05-30",
+    "BTC_price": 95936.19,
+    "Gold_price": 2650.17,
+    "Oil_price": 89.1
+  },
+  {
+    "tick": 150,
+    "date": "2025-05-31",
+    "BTC_price": 93239.83,
+    "Gold_price": 2672.16,
+    "Oil_price": 87.18
+  },
+  {
+    "tick": 151,
+    "date": "2025-06-01",
+    "BTC_price": 90424.95,
+    "Gold_price": 2664.19,
+    "Oil_price": 89.39
+  },
+  {
+    "tick": 152,
+    "date": "2025-06-02",
+    "BTC_price": 88142.12,
+    "Gold_price": 2626.27,
+    "Oil_price": 87.23
+  },
+  {
+    "tick": 153,
+    "date": "2025-06-03",
+    "BTC_price": 91895.87,
+    "Gold_price": 2640.44,
+    "Oil_price": 88.02
+  },
+  {
+    "tick": 154,
+    "date": "2025-06-04",
+    "BTC_price": 90682.86,
+    "Gold_price": 2642.82,
+    "Oil_price": 87.98
+  },
+  {
+    "tick": 155,
+    "date": "2025-06-05",
+    "BTC_price": 92356.28,
+    "Gold_price": 2610.31,
+    "Oil_price": 88.13
+  },
+  {
+    "tick": 156,
+    "date": "2025-06-06",
+    "BTC_price": 101624.95,
+    "Gold_price": 2586.46,
+    "Oil_price": 89.72
+  },
+  {
+    "tick": 157,
+    "date": "2025-06-07",
+    "BTC_price": 100046.39,
+    "Gold_price": 2616.77,
+    "Oil_price": 90.56
+  },
+  {
+    "tick": 158,
+    "date": "2025-06-08",
+    "BTC_price": 97980.61,
+    "Gold_price": 2662.94,
+    "Oil_price": 88.08
+  },
+  {
+    "tick": 159,
+    "date": "2025-06-09",
+    "BTC_price": 104298.62,
+    "Gold_price": 2682,
+    "Oil_price": 89.58
+  },
+  {
+    "tick": 160,
+    "date": "2025-06-10",
+    "BTC_price": 102625.44,
+    "Gold_price": 2692.03,
+    "Oil_price": 89.38
+  },
+  {
+    "tick": 161,
+    "date": "2025-06-11",
+    "BTC_price": 101913.56,
+    "Gold_price": 2707.32,
+    "Oil_price": 89.67
+  },
+  {
+    "tick": 162,
+    "date": "2025-06-12",
+    "BTC_price": 100110.95,
+    "Gold_price": 2750.48,
+    "Oil_price": 92.62
+  },
+  {
+    "tick": 163,
+    "date": "2025-06-13",
+    "BTC_price": 99552.97,
+    "Gold_price": 2757.59,
+    "Oil_price": 90.88
+  },
+  {
+    "tick": 164,
+    "date": "2025-06-14",
+    "BTC_price": 99751.75,
+    "Gold_price": 2728.05,
+    "Oil_price": 90.69
+  },
+  {
+    "tick": 165,
+    "date": "2025-06-15",
+    "BTC_price": 99570.77,
+    "Gold_price": 2756.57,
+    "Oil_price": 93.32
+  },
+  {
+    "tick": 166,
+    "date": "2025-06-16",
+    "BTC_price": 96741.92,
+    "Gold_price": 2745.88,
+    "Oil_price": 95.55
+  },
+  {
+    "tick": 167,
+    "date": "2025-06-17",
+    "BTC_price": 103405.24,
+    "Gold_price": 2741.6,
+    "Oil_price": 99.35
+  },
+  {
+    "tick": 168,
+    "date": "2025-06-18",
+    "BTC_price": 103245.99,
+    "Gold_price": 2762.16,
+    "Oil_price": 98.3
+  },
+  {
+    "tick": 169,
+    "date": "2025-06-19",
+    "BTC_price": 104537.3,
+    "Gold_price": 2774.1,
+    "Oil_price": 98.03
+  },
+  {
+    "tick": 170,
+    "date": "2025-06-20",
+    "BTC_price": 102341.33,
+    "Gold_price": 2796.04,
+    "Oil_price": 98.18
+  },
+  {
+    "tick": 171,
+    "date": "2025-06-21",
+    "BTC_price": 99086.16,
+    "Gold_price": 2802.54,
+    "Oil_price": 97.8
+  },
+  {
+    "tick": 172,
+    "date": "2025-06-22",
+    "BTC_price": 95253.32,
+    "Gold_price": 2823.25,
+    "Oil_price": 99.24
+  },
+  {
+    "tick": 173,
+    "date": "2025-06-23",
+    "BTC_price": 93578.75,
+    "Gold_price": 2825.66,
+    "Oil_price": 98.55
+  },
+  {
+    "tick": 174,
+    "date": "2025-06-24",
+    "BTC_price": 88202.03,
+    "Gold_price": 2784.72,
+    "Oil_price": 98.38
+  },
+  {
+    "tick": 175,
+    "date": "2025-06-25",
+    "BTC_price": 84693.66,
+    "Gold_price": 2752.1,
+    "Oil_price": 99.08
+  },
+  {
+    "tick": 176,
+    "date": "2025-06-26",
+    "BTC_price": 81903.13,
+    "Gold_price": 2787.56,
+    "Oil_price": 97.22
+  },
+  {
+    "tick": 177,
+    "date": "2025-06-27",
+    "BTC_price": 81140.56,
+    "Gold_price": 2808.14,
+    "Oil_price": 97.95
+  },
+  {
+    "tick": 178,
+    "date": "2025-06-28",
+    "BTC_price": 76310.23,
+    "Gold_price": 2828.65,
+    "Oil_price": 98.2
+  },
+  {
+    "tick": 179,
+    "date": "2025-06-29",
+    "BTC_price": 73965.37,
+    "Gold_price": 2852.08,
+    "Oil_price": 96.79
+  },
+  {
+    "tick": 180,
+    "date": "2025-06-30",
+    "BTC_price": 73144.18,
+    "Gold_price": 2853.52,
+    "Oil_price": 98.22
+  },
+  {
+    "tick": 181,
+    "date": "2025-07-01",
+    "BTC_price": 73482.52,
+    "Gold_price": 2861.07,
+    "Oil_price": 98.55
+  },
+  {
+    "tick": 182,
+    "date": "2025-07-02",
+    "BTC_price": 73340.71,
+    "Gold_price": 2898.95,
+    "Oil_price": 96.49
+  },
+  {
+    "tick": 183,
+    "date": "2025-07-03",
+    "BTC_price": 75163.9,
+    "Gold_price": 2858.67,
+    "Oil_price": 98.35
+  },
+  {
+    "tick": 184,
+    "date": "2025-07-04",
+    "BTC_price": 80132.86,
+    "Gold_price": 2854.5,
+    "Oil_price": 101.08
+  },
+  {
+    "tick": 185,
+    "date": "2025-07-05",
+    "BTC_price": 78467.89,
+    "Gold_price": 2856.54,
+    "Oil_price": 101.79
+  },
+  {
+    "tick": 186,
+    "date": "2025-07-06",
+    "BTC_price": 76117.08,
+    "Gold_price": 2877.86,
+    "Oil_price": 104.07
+  },
+  {
+    "tick": 187,
+    "date": "2025-07-07",
+    "BTC_price": 78043.42,
+    "Gold_price": 2869.61,
+    "Oil_price": 104.8
+  },
+  {
+    "tick": 188,
+    "date": "2025-07-08",
+    "BTC_price": 79815.55,
+    "Gold_price": 2878.89,
+    "Oil_price": 104.57
+  },
+  {
+    "tick": 189,
+    "date": "2025-07-09",
+    "BTC_price": 78474.33,
+    "Gold_price": 2946,
+    "Oil_price": 100.95
+  },
+  {
+    "tick": 190,
+    "date": "2025-07-10",
+    "BTC_price": 79375.18,
+    "Gold_price": 2965.17,
+    "Oil_price": 99.68
+  },
+  {
+    "tick": 191,
+    "date": "2025-07-11",
+    "BTC_price": 75912.26,
+    "Gold_price": 2985.65,
+    "Oil_price": 98.85
+  },
+  {
+    "tick": 192,
+    "date": "2025-07-12",
+    "BTC_price": 79653.7,
+    "Gold_price": 2963.04,
+    "Oil_price": 95.69
+  },
+  {
+    "tick": 193,
+    "date": "2025-07-13",
+    "BTC_price": 76847.02,
+    "Gold_price": 2949.46,
+    "Oil_price": 94.07
+  },
+  {
+    "tick": 194,
+    "date": "2025-07-14",
+    "BTC_price": 74951.65,
+    "Gold_price": 2982.63,
+    "Oil_price": 96.45
+  },
+  {
+    "tick": 195,
+    "date": "2025-07-15",
+    "BTC_price": 73352.65,
+    "Gold_price": 2956.34,
+    "Oil_price": 94.4
+  },
+  {
+    "tick": 196,
+    "date": "2025-07-16",
+    "BTC_price": 71224.02,
+    "Gold_price": 2989.24,
+    "Oil_price": 96.49
+  },
+  {
+    "tick": 197,
+    "date": "2025-07-17",
+    "BTC_price": 68917,
+    "Gold_price": 2990.4,
+    "Oil_price": 98.8
+  },
+  {
+    "tick": 198,
+    "date": "2025-07-18",
+    "BTC_price": 74138.88,
+    "Gold_price": 2993.45,
+    "Oil_price": 99.77
+  },
+  {
+    "tick": 199,
+    "date": "2025-07-19",
+    "BTC_price": 79223.29,
+    "Gold_price": 2946.99,
+    "Oil_price": 101.02
+  },
+  {
+    "tick": 200,
+    "date": "2025-07-20",
+    "BTC_price": 78848.41,
+    "Gold_price": 2989.39,
+    "Oil_price": 101.74
+  },
+  {
+    "tick": 201,
+    "date": "2025-07-21",
+    "BTC_price": 80259.58,
+    "Gold_price": 2974.6,
+    "Oil_price": 101.4
+  },
+  {
+    "tick": 202,
+    "date": "2025-07-22",
+    "BTC_price": 78964,
+    "Gold_price": 2972.23,
+    "Oil_price": 102.43
+  },
+  {
+    "tick": 203,
+    "date": "2025-07-23",
+    "BTC_price": 80670.44,
+    "Gold_price": 2959.33,
+    "Oil_price": 101.65
+  },
+  {
+    "tick": 204,
+    "date": "2025-07-24",
+    "BTC_price": 81011.61,
+    "Gold_price": 2892.42,
+    "Oil_price": 100.08
+  },
+  {
+    "tick": 205,
+    "date": "2025-07-25",
+    "BTC_price": 78299.49,
+    "Gold_price": 2885.92,
+    "Oil_price": 101.32
+  },
+  {
+    "tick": 206,
+    "date": "2025-07-26",
+    "BTC_price": 81111.52,
+    "Gold_price": 2909.87,
+    "Oil_price": 99.29
+  },
+  {
+    "tick": 207,
+    "date": "2025-07-27",
+    "BTC_price": 83568.25,
+    "Gold_price": 2878.36,
+    "Oil_price": 102.25
+  },
+  {
+    "tick": 208,
+    "date": "2025-07-28",
+    "BTC_price": 80391.68,
+    "Gold_price": 2918.8,
+    "Oil_price": 99.1
+  },
+  {
+    "tick": 209,
+    "date": "2025-07-29",
+    "BTC_price": 78358.08,
+    "Gold_price": 2897.52,
+    "Oil_price": 98.26
+  },
+  {
+    "tick": 210,
+    "date": "2025-07-30",
+    "BTC_price": 80347.23,
+    "Gold_price": 2893.77,
+    "Oil_price": 98.16
+  },
+  {
+    "tick": 211,
+    "date": "2025-07-31",
+    "BTC_price": 80346.94,
+    "Gold_price": 2920.17,
+    "Oil_price": 98.27
+  },
+  {
+    "tick": 212,
+    "date": "2025-08-01",
+    "BTC_price": 82086.12,
+    "Gold_price": 2897.97,
+    "Oil_price": 98.03
+  },
+  {
+    "tick": 213,
+    "date": "2025-08-02",
+    "BTC_price": 76202.77,
+    "Gold_price": 2863.7,
+    "Oil_price": 101.96
+  },
+  {
+    "tick": 214,
+    "date": "2025-08-03",
+    "BTC_price": 78501.21,
+    "Gold_price": 2859.61,
+    "Oil_price": 101.45
+  },
+  {
+    "tick": 215,
+    "date": "2025-08-04",
+    "BTC_price": 76214.4,
+    "Gold_price": 2862.57,
+    "Oil_price": 101.56
+  },
+  {
+    "tick": 216,
+    "date": "2025-08-05",
+    "BTC_price": 79066.06,
+    "Gold_price": 2881.21,
+    "Oil_price": 100.74
+  },
+  {
+    "tick": 217,
+    "date": "2025-08-06",
+    "BTC_price": 82774.02,
+    "Gold_price": 2868.49,
+    "Oil_price": 99.41
+  },
+  {
+    "tick": 218,
+    "date": "2025-08-07",
+    "BTC_price": 79143.24,
+    "Gold_price": 2840.75,
+    "Oil_price": 99.18
+  },
+  {
+    "tick": 219,
+    "date": "2025-08-08",
+    "BTC_price": 75978.63,
+    "Gold_price": 2862.81,
+    "Oil_price": 100.58
+  },
+  {
+    "tick": 220,
+    "date": "2025-08-09",
+    "BTC_price": 74656.45,
+    "Gold_price": 2825.79,
+    "Oil_price": 96.6
+  },
+  {
+    "tick": 221,
+    "date": "2025-08-10",
+    "BTC_price": 73417.44,
+    "Gold_price": 2810.62,
+    "Oil_price": 94.2
+  },
+  {
+    "tick": 222,
+    "date": "2025-08-11",
+    "BTC_price": 76913.24,
+    "Gold_price": 2816.46,
+    "Oil_price": 90.51
+  },
+  {
+    "tick": 223,
+    "date": "2025-08-12",
+    "BTC_price": 75764.01,
+    "Gold_price": 2824.05,
+    "Oil_price": 92.41
+  },
+  {
+    "tick": 224,
+    "date": "2025-08-13",
+    "BTC_price": 76393.16,
+    "Gold_price": 2825.54,
+    "Oil_price": 90.62
+  },
+  {
+    "tick": 225,
+    "date": "2025-08-14",
+    "BTC_price": 74374.12,
+    "Gold_price": 2821.08,
+    "Oil_price": 89.29
+  },
+  {
+    "tick": 226,
+    "date": "2025-08-15",
+    "BTC_price": 78897.4,
+    "Gold_price": 2845.02,
+    "Oil_price": 87.19
+  },
+  {
+    "tick": 227,
+    "date": "2025-08-16",
+    "BTC_price": 74777.69,
+    "Gold_price": 2823.65,
+    "Oil_price": 85.07
+  },
+  {
+    "tick": 228,
+    "date": "2025-08-17",
+    "BTC_price": 70792.74,
+    "Gold_price": 2848.39,
+    "Oil_price": 85.63
+  },
+  {
+    "tick": 229,
+    "date": "2025-08-18",
+    "BTC_price": 71300.4,
+    "Gold_price": 2824.37,
+    "Oil_price": 84.33
+  },
+  {
+    "tick": 230,
+    "date": "2025-08-19",
+    "BTC_price": 68049.42,
+    "Gold_price": 2849.14,
+    "Oil_price": 86.11
+  },
+  {
+    "tick": 231,
+    "date": "2025-08-20",
+    "BTC_price": 64826.38,
+    "Gold_price": 2796.72,
+    "Oil_price": 83.61
+  },
+  {
+    "tick": 232,
+    "date": "2025-08-21",
+    "BTC_price": 66973.91,
+    "Gold_price": 2842.79,
+    "Oil_price": 83.13
+  },
+  {
+    "tick": 233,
+    "date": "2025-08-22",
+    "BTC_price": 65533.33,
+    "Gold_price": 2872.27,
+    "Oil_price": 84.58
+  },
+  {
+    "tick": 234,
+    "date": "2025-08-23",
+    "BTC_price": 63353.13,
+    "Gold_price": 2901.39,
+    "Oil_price": 83.6
+  },
+  {
+    "tick": 235,
+    "date": "2025-08-24",
+    "BTC_price": 64051.82,
+    "Gold_price": 2939.74,
+    "Oil_price": 84.63
+  },
+  {
+    "tick": 236,
+    "date": "2025-08-25",
+    "BTC_price": 60959.8,
+    "Gold_price": 2937.55,
+    "Oil_price": 84.43
+  },
+  {
+    "tick": 237,
+    "date": "2025-08-26",
+    "BTC_price": 58452.95,
+    "Gold_price": 2933.4,
+    "Oil_price": 83.27
+  },
+  {
+    "tick": 238,
+    "date": "2025-08-27",
+    "BTC_price": 62559,
+    "Gold_price": 2914.6,
+    "Oil_price": 86.63
+  },
+  {
+    "tick": 239,
+    "date": "2025-08-28",
+    "BTC_price": 57955.29,
+    "Gold_price": 2889.16,
+    "Oil_price": 89.05
+  },
+  {
+    "tick": 240,
+    "date": "2025-08-29",
+    "BTC_price": 55808.91,
+    "Gold_price": 2918.42,
+    "Oil_price": 89.76
+  },
+  {
+    "tick": 241,
+    "date": "2025-08-30",
+    "BTC_price": 61220.2,
+    "Gold_price": 2919.28,
+    "Oil_price": 87.79
+  },
+  {
+    "tick": 242,
+    "date": "2025-08-31",
+    "BTC_price": 56147.47,
+    "Gold_price": 2958.08,
+    "Oil_price": 84.42
+  },
+  {
+    "tick": 243,
+    "date": "2025-09-01",
+    "BTC_price": 56600.95,
+    "Gold_price": 2972.67,
+    "Oil_price": 84.46
+  },
+  {
+    "tick": 244,
+    "date": "2025-09-02",
+    "BTC_price": 58113.63,
+    "Gold_price": 2980.03,
+    "Oil_price": 84.74
+  },
+  {
+    "tick": 245,
+    "date": "2025-09-03",
+    "BTC_price": 57384.21,
+    "Gold_price": 3005.45,
+    "Oil_price": 85.36
+  },
+  {
+    "tick": 246,
+    "date": "2025-09-04",
+    "BTC_price": 53637.25,
+    "Gold_price": 3065.25,
+    "Oil_price": 86.63
+  },
+  {
+    "tick": 247,
+    "date": "2025-09-05",
+    "BTC_price": 54015.57,
+    "Gold_price": 3045.03,
+    "Oil_price": 87.34
+  },
+  {
+    "tick": 248,
+    "date": "2025-09-06",
+    "BTC_price": 56241.9,
+    "Gold_price": 3028.63,
+    "Oil_price": 88.2
+  },
+  {
+    "tick": 249,
+    "date": "2025-09-07",
+    "BTC_price": 56151.29,
+    "Gold_price": 2987.23,
+    "Oil_price": 91.98
+  },
+  {
+    "tick": 250,
+    "date": "2025-09-08",
+    "BTC_price": 57350.7,
+    "Gold_price": 2979.22,
+    "Oil_price": 91.2
+  },
+  {
+    "tick": 251,
+    "date": "2025-09-09",
+    "BTC_price": 57117.08,
+    "Gold_price": 2991.21,
+    "Oil_price": 91.57
+  },
+  {
+    "tick": 252,
+    "date": "2025-09-10",
+    "BTC_price": 57769.08,
+    "Gold_price": 2985.18,
+    "Oil_price": 91.6
+  },
+  {
+    "tick": 253,
+    "date": "2025-09-11",
+    "BTC_price": 54915.9,
+    "Gold_price": 3013.99,
+    "Oil_price": 90.53
+  },
+  {
+    "tick": 254,
+    "date": "2025-09-12",
+    "BTC_price": 53959.68,
+    "Gold_price": 3028.6,
+    "Oil_price": 90.12
+  },
+  {
+    "tick": 255,
+    "date": "2025-09-13",
+    "BTC_price": 56144.93,
+    "Gold_price": 3049.22,
+    "Oil_price": 90.12
+  },
+  {
+    "tick": 256,
+    "date": "2025-09-14",
+    "BTC_price": 61352.57,
+    "Gold_price": 3043.04,
+    "Oil_price": 87.59
+  },
+  {
+    "tick": 257,
+    "date": "2025-09-15",
+    "BTC_price": 61952.11,
+    "Gold_price": 3005.52,
+    "Oil_price": 87.67
+  },
+  {
+    "tick": 258,
+    "date": "2025-09-16",
+    "BTC_price": 63953.78,
+    "Gold_price": 2963.86,
+    "Oil_price": 89.57
+  },
+  {
+    "tick": 259,
+    "date": "2025-09-17",
+    "BTC_price": 66195.79,
+    "Gold_price": 2968.04,
+    "Oil_price": 91.85
+  },
+  {
+    "tick": 260,
+    "date": "2025-09-18",
+    "BTC_price": 65608.61,
+    "Gold_price": 3005.07,
+    "Oil_price": 93.02
+  },
+  {
+    "tick": 261,
+    "date": "2025-09-19",
+    "BTC_price": 67411.81,
+    "Gold_price": 2990.77,
+    "Oil_price": 90.92
+  },
+  {
+    "tick": 262,
+    "date": "2025-09-20",
+    "BTC_price": 66669.41,
+    "Gold_price": 2985.39,
+    "Oil_price": 91.48
+  },
+  {
+    "tick": 263,
+    "date": "2025-09-21",
+    "BTC_price": 66965.48,
+    "Gold_price": 2996.41,
+    "Oil_price": 89.79
+  },
+  {
+    "tick": 264,
+    "date": "2025-09-22",
+    "BTC_price": 66510.87,
+    "Gold_price": 3014.08,
+    "Oil_price": 90.87
+  },
+  {
+    "tick": 265,
+    "date": "2025-09-23",
+    "BTC_price": 64292.89,
+    "Gold_price": 2988.43,
+    "Oil_price": 89.83
+  },
+  {
+    "tick": 266,
+    "date": "2025-09-24",
+    "BTC_price": 67157.89,
+    "Gold_price": 3021.33,
+    "Oil_price": 91.3
+  },
+  {
+    "tick": 267,
+    "date": "2025-09-25",
+    "BTC_price": 71249.97,
+    "Gold_price": 3028.73,
+    "Oil_price": 91.71
+  },
+  {
+    "tick": 268,
+    "date": "2025-09-26",
+    "BTC_price": 72941.46,
+    "Gold_price": 3023.14,
+    "Oil_price": 91.03
+  },
+  {
+    "tick": 269,
+    "date": "2025-09-27",
+    "BTC_price": 72571.91,
+    "Gold_price": 3027.2,
+    "Oil_price": 92.74
+  },
+  {
+    "tick": 270,
+    "date": "2025-09-28",
+    "BTC_price": 76082.34,
+    "Gold_price": 3070.54,
+    "Oil_price": 92.91
+  },
+  {
+    "tick": 271,
+    "date": "2025-09-29",
+    "BTC_price": 75839.57,
+    "Gold_price": 3059.82,
+    "Oil_price": 95.87
+  },
+  {
+    "tick": 272,
+    "date": "2025-09-30",
+    "BTC_price": 73927.16,
+    "Gold_price": 3038.2,
+    "Oil_price": 96.86
+  },
+  {
+    "tick": 273,
+    "date": "2025-10-01",
+    "BTC_price": 74964.3,
+    "Gold_price": 3067.1,
+    "Oil_price": 96.38
+  },
+  {
+    "tick": 274,
+    "date": "2025-10-02",
+    "BTC_price": 72228.35,
+    "Gold_price": 3013.91,
+    "Oil_price": 98.19
+  },
+  {
+    "tick": 275,
+    "date": "2025-10-03",
+    "BTC_price": 68404.66,
+    "Gold_price": 3002.08,
+    "Oil_price": 98.08
+  },
+  {
+    "tick": 276,
+    "date": "2025-10-04",
+    "BTC_price": 67792.7,
+    "Gold_price": 3036.7,
+    "Oil_price": 99.34
+  },
+  {
+    "tick": 277,
+    "date": "2025-10-05",
+    "BTC_price": 65967.67,
+    "Gold_price": 3012.51,
+    "Oil_price": 99.49
+  },
+  {
+    "tick": 278,
+    "date": "2025-10-06",
+    "BTC_price": 66711.53,
+    "Gold_price": 3016.15,
+    "Oil_price": 97.04
+  },
+  {
+    "tick": 279,
+    "date": "2025-10-07",
+    "BTC_price": 66108.03,
+    "Gold_price": 3067.52,
+    "Oil_price": 98.57
+  },
+  {
+    "tick": 280,
+    "date": "2025-10-08",
+    "BTC_price": 69465.65,
+    "Gold_price": 3072.43,
+    "Oil_price": 96.98
+  },
+  {
+    "tick": 281,
+    "date": "2025-10-09",
+    "BTC_price": 74079.02,
+    "Gold_price": 3034.6,
+    "Oil_price": 93.96
+  },
+  {
+    "tick": 282,
+    "date": "2025-10-10",
+    "BTC_price": 72922.82,
+    "Gold_price": 2997.87,
+    "Oil_price": 90.77
+  },
+  {
+    "tick": 283,
+    "date": "2025-10-11",
+    "BTC_price": 68436.14,
+    "Gold_price": 2968.73,
+    "Oil_price": 91.08
+  },
+  {
+    "tick": 284,
+    "date": "2025-10-12",
+    "BTC_price": 68367.74,
+    "Gold_price": 2952.39,
+    "Oil_price": 90.42
+  },
+  {
+    "tick": 285,
+    "date": "2025-10-13",
+    "BTC_price": 71956.59,
+    "Gold_price": 2975.97,
+    "Oil_price": 89.58
+  },
+  {
+    "tick": 286,
+    "date": "2025-10-14",
+    "BTC_price": 66514.07,
+    "Gold_price": 2999.63,
+    "Oil_price": 89.65
+  },
+  {
+    "tick": 287,
+    "date": "2025-10-15",
+    "BTC_price": 70398.43,
+    "Gold_price": 2973.15,
+    "Oil_price": 90.18
+  },
+  {
+    "tick": 288,
+    "date": "2025-10-16",
+    "BTC_price": 76426.98,
+    "Gold_price": 3015.69,
+    "Oil_price": 89.3
+  },
+  {
+    "tick": 289,
+    "date": "2025-10-17",
+    "BTC_price": 76427.15,
+    "Gold_price": 3027.61,
+    "Oil_price": 91.35
+  },
+  {
+    "tick": 290,
+    "date": "2025-10-18",
+    "BTC_price": 75897.44,
+    "Gold_price": 3017.41,
+    "Oil_price": 90.32
+  },
+  {
+    "tick": 291,
+    "date": "2025-10-19",
+    "BTC_price": 74456.14,
+    "Gold_price": 3014.7,
+    "Oil_price": 88.59
+  },
+  {
+    "tick": 292,
+    "date": "2025-10-20",
+    "BTC_price": 78609.29,
+    "Gold_price": 3025.01,
+    "Oil_price": 87.89
+  },
+  {
+    "tick": 293,
+    "date": "2025-10-21",
+    "BTC_price": 78988.88,
+    "Gold_price": 3043.43,
+    "Oil_price": 89.02
+  },
+  {
+    "tick": 294,
+    "date": "2025-10-22",
+    "BTC_price": 83712.71,
+    "Gold_price": 3042.87,
+    "Oil_price": 89.51
+  },
+  {
+    "tick": 295,
+    "date": "2025-10-23",
+    "BTC_price": 83100.25,
+    "Gold_price": 3046.21,
+    "Oil_price": 88.49
+  },
+  {
+    "tick": 296,
+    "date": "2025-10-24",
+    "BTC_price": 87372.97,
+    "Gold_price": 3060.14,
+    "Oil_price": 91.59
+  },
+  {
+    "tick": 297,
+    "date": "2025-10-25",
+    "BTC_price": 86553.04,
+    "Gold_price": 3134.39,
+    "Oil_price": 90.86
+  },
+  {
+    "tick": 298,
+    "date": "2025-10-26",
+    "BTC_price": 86853.93,
+    "Gold_price": 3130.46,
+    "Oil_price": 86.77
+  },
+  {
+    "tick": 299,
+    "date": "2025-10-27",
+    "BTC_price": 87458.97,
+    "Gold_price": 3093.96,
+    "Oil_price": 83.03
+  },
+  {
+    "tick": 300,
+    "date": "2025-10-28",
+    "BTC_price": 85711.21,
+    "Gold_price": 3110.86,
+    "Oil_price": 82.16
+  },
+  {
+    "tick": 301,
+    "date": "2025-10-29",
+    "BTC_price": 83777.48,
+    "Gold_price": 3132.41,
+    "Oil_price": 83.99
+  },
+  {
+    "tick": 302,
+    "date": "2025-10-30",
+    "BTC_price": 83110.71,
+    "Gold_price": 3126.81,
+    "Oil_price": 85.02
+  },
+  {
+    "tick": 303,
+    "date": "2025-10-31",
+    "BTC_price": 79662.82,
+    "Gold_price": 3140.17,
+    "Oil_price": 86.12
+  },
+  {
+    "tick": 304,
+    "date": "2025-11-01",
+    "BTC_price": 79225.43,
+    "Gold_price": 3176.73,
+    "Oil_price": 84.74
+  },
+  {
+    "tick": 305,
+    "date": "2025-11-02",
+    "BTC_price": 69823.19,
+    "Gold_price": 3202.42,
+    "Oil_price": 81.92
+  },
+  {
+    "tick": 306,
+    "date": "2025-11-03",
+    "BTC_price": 70410.79,
+    "Gold_price": 3194.61,
+    "Oil_price": 81.37
+  },
+  {
+    "tick": 307,
+    "date": "2025-11-04",
+    "BTC_price": 61576.45,
+    "Gold_price": 3225.22,
+    "Oil_price": 81.15
+  },
+  {
+    "tick": 308,
+    "date": "2025-11-05",
+    "BTC_price": 63902.27,
+    "Gold_price": 3217.26,
+    "Oil_price": 78.8
+  },
+  {
+    "tick": 309,
+    "date": "2025-11-06",
+    "BTC_price": 62662.84,
+    "Gold_price": 3224.88,
+    "Oil_price": 76.45
+  },
+  {
+    "tick": 310,
+    "date": "2025-11-07",
+    "BTC_price": 61594.03,
+    "Gold_price": 3231.07,
+    "Oil_price": 75.32
+  },
+  {
+    "tick": 311,
+    "date": "2025-11-08",
+    "BTC_price": 59900.49,
+    "Gold_price": 3236.78,
+    "Oil_price": 74.65
+  },
+  {
+    "tick": 312,
+    "date": "2025-11-09",
+    "BTC_price": 62810.79,
+    "Gold_price": 3226.54,
+    "Oil_price": 71.76
+  },
+  {
+    "tick": 313,
+    "date": "2025-11-10",
+    "BTC_price": 64743.87,
+    "Gold_price": 3227.49,
+    "Oil_price": 72.41
+  },
+  {
+    "tick": 314,
+    "date": "2025-11-11",
+    "BTC_price": 64976.73,
+    "Gold_price": 3215.93,
+    "Oil_price": 73.21
+  },
+  {
+    "tick": 315,
+    "date": "2025-11-12",
+    "BTC_price": 67747.47,
+    "Gold_price": 3161.63,
+    "Oil_price": 73.9
+  },
+  {
+    "tick": 316,
+    "date": "2025-11-13",
+    "BTC_price": 65457.73,
+    "Gold_price": 3215.04,
+    "Oil_price": 73.25
+  },
+  {
+    "tick": 317,
+    "date": "2025-11-14",
+    "BTC_price": 68548.09,
+    "Gold_price": 3241.56,
+    "Oil_price": 71.76
+  },
+  {
+    "tick": 318,
+    "date": "2025-11-15",
+    "BTC_price": 68207.35,
+    "Gold_price": 3270.85,
+    "Oil_price": 70.28
+  },
+  {
+    "tick": 319,
+    "date": "2025-11-16",
+    "BTC_price": 67463.16,
+    "Gold_price": 3251.06,
+    "Oil_price": 72.08
+  },
+  {
+    "tick": 320,
+    "date": "2025-11-17",
+    "BTC_price": 61438.69,
+    "Gold_price": 3259.51,
+    "Oil_price": 71.73
+  },
+  {
+    "tick": 321,
+    "date": "2025-11-18",
+    "BTC_price": 67084.7,
+    "Gold_price": 3268.61,
+    "Oil_price": 73.47
+  },
+  {
+    "tick": 322,
+    "date": "2025-11-19",
+    "BTC_price": 68101.19,
+    "Gold_price": 3300.66,
+    "Oil_price": 73.94
+  },
+  {
+    "tick": 323,
+    "date": "2025-11-20",
+    "BTC_price": 68438.51,
+    "Gold_price": 3293.2,
+    "Oil_price": 73.45
+  },
+  {
+    "tick": 324,
+    "date": "2025-11-21",
+    "BTC_price": 65255.03,
+    "Gold_price": 3334.42,
+    "Oil_price": 75.24
+  },
+  {
+    "tick": 325,
+    "date": "2025-11-22",
+    "BTC_price": 66571.08,
+    "Gold_price": 3295.66,
+    "Oil_price": 75.5
+  },
+  {
+    "tick": 326,
+    "date": "2025-11-23",
+    "BTC_price": 64088.19,
+    "Gold_price": 3329.08,
+    "Oil_price": 74.48
+  },
+  {
+    "tick": 327,
+    "date": "2025-11-24",
+    "BTC_price": 61420.48,
+    "Gold_price": 3310.67,
+    "Oil_price": 73.8
+  },
+  {
+    "tick": 328,
+    "date": "2025-11-25",
+    "BTC_price": 58478.5,
+    "Gold_price": 3327.83,
+    "Oil_price": 73.14
+  },
+  {
+    "tick": 329,
+    "date": "2025-11-26",
+    "BTC_price": 59255.45,
+    "Gold_price": 3317.77,
+    "Oil_price": 74.02
+  },
+  {
+    "tick": 330,
+    "date": "2025-11-27",
+    "BTC_price": 63141.28,
+    "Gold_price": 3303.91,
+    "Oil_price": 75.25
+  },
+  {
+    "tick": 331,
+    "date": "2025-11-28",
+    "BTC_price": 62483.52,
+    "Gold_price": 3346.94,
+    "Oil_price": 74.99
+  },
+  {
+    "tick": 332,
+    "date": "2025-11-29",
+    "BTC_price": 64179.53,
+    "Gold_price": 3337.89,
+    "Oil_price": 74.44
+  },
+  {
+    "tick": 333,
+    "date": "2025-11-30",
+    "BTC_price": 63647.72,
+    "Gold_price": 3387.9,
+    "Oil_price": 74.34
+  },
+  {
+    "tick": 334,
+    "date": "2025-12-01",
+    "BTC_price": 61263.82,
+    "Gold_price": 3381.56,
+    "Oil_price": 74.65
+  },
+  {
+    "tick": 335,
+    "date": "2025-12-02",
+    "BTC_price": 59091,
+    "Gold_price": 3398.84,
+    "Oil_price": 73.96
+  },
+  {
+    "tick": 336,
+    "date": "2025-12-03",
+    "BTC_price": 60083.77,
+    "Gold_price": 3378.34,
+    "Oil_price": 74.85
+  },
+  {
+    "tick": 337,
+    "date": "2025-12-04",
+    "BTC_price": 63154.23,
+    "Gold_price": 3360.05,
+    "Oil_price": 74.18
+  },
+  {
+    "tick": 338,
+    "date": "2025-12-05",
+    "BTC_price": 64010.05,
+    "Gold_price": 3345.86,
+    "Oil_price": 71.77
+  },
+  {
+    "tick": 339,
+    "date": "2025-12-06",
+    "BTC_price": 62242.38,
+    "Gold_price": 3323.95,
+    "Oil_price": 70.19
+  },
+  {
+    "tick": 340,
+    "date": "2025-12-07",
+    "BTC_price": 68516.42,
+    "Gold_price": 3283.46,
+    "Oil_price": 70.56
+  },
+  {
+    "tick": 341,
+    "date": "2025-12-08",
+    "BTC_price": 67913.86,
+    "Gold_price": 3326.29,
+    "Oil_price": 70.21
+  },
+  {
+    "tick": 342,
+    "date": "2025-12-09",
+    "BTC_price": 66967.38,
+    "Gold_price": 3304.85,
+    "Oil_price": 70.16
+  },
+  {
+    "tick": 343,
+    "date": "2025-12-10",
+    "BTC_price": 65056.58,
+    "Gold_price": 3300.18,
+    "Oil_price": 70.33
+  },
+  {
+    "tick": 344,
+    "date": "2025-12-11",
+    "BTC_price": 68156.99,
+    "Gold_price": 3310.04,
+    "Oil_price": 67.23
+  },
+  {
+    "tick": 345,
+    "date": "2025-12-12",
+    "BTC_price": 67116.73,
+    "Gold_price": 3273.36,
+    "Oil_price": 66.02
+  },
+  {
+    "tick": 346,
+    "date": "2025-12-13",
+    "BTC_price": 65607.11,
+    "Gold_price": 3262.39,
+    "Oil_price": 64.78
+  },
+  {
+    "tick": 347,
+    "date": "2025-12-14",
+    "BTC_price": 64997.94,
+    "Gold_price": 3223.3,
+    "Oil_price": 64.02
+  },
+  {
+    "tick": 348,
+    "date": "2025-12-15",
+    "BTC_price": 63910.46,
+    "Gold_price": 3247.22,
+    "Oil_price": 62.95
+  },
+  {
+    "tick": 349,
+    "date": "2025-12-16",
+    "BTC_price": 64707.15,
+    "Gold_price": 3249.13,
+    "Oil_price": 62.52
+  },
+  {
+    "tick": 350,
+    "date": "2025-12-17",
+    "BTC_price": 60982.1,
+    "Gold_price": 3228.34,
+    "Oil_price": 63
+  },
+  {
+    "tick": 351,
+    "date": "2025-12-18",
+    "BTC_price": 58636.95,
+    "Gold_price": 3229.19,
+    "Oil_price": 64.44
+  },
+  {
+    "tick": 352,
+    "date": "2025-12-19",
+    "BTC_price": 59026.53,
+    "Gold_price": 3186.4,
+    "Oil_price": 65.66
+  },
+  {
+    "tick": 353,
+    "date": "2025-12-20",
+    "BTC_price": 57418.73,
+    "Gold_price": 3133.51,
+    "Oil_price": 66.79
+  },
+  {
+    "tick": 354,
+    "date": "2025-12-21",
+    "BTC_price": 57736.9,
+    "Gold_price": 3140.53,
+    "Oil_price": 64.52
+  },
+  {
+    "tick": 355,
+    "date": "2025-12-22",
+    "BTC_price": 58240.61,
+    "Gold_price": 3128.98,
+    "Oil_price": 65.27
+  },
+  {
+    "tick": 356,
+    "date": "2025-12-23",
+    "BTC_price": 60552.58,
+    "Gold_price": 3139.02,
+    "Oil_price": 67.22
+  },
+  {
+    "tick": 357,
+    "date": "2025-12-24",
+    "BTC_price": 61943.21,
+    "Gold_price": 3091.04,
+    "Oil_price": 66.02
+  },
+  {
+    "tick": 358,
+    "date": "2025-12-25",
+    "BTC_price": 64606.14,
+    "Gold_price": 3104.14,
+    "Oil_price": 66.65
+  },
+  {
+    "tick": 359,
+    "date": "2025-12-26",
+    "BTC_price": 62750.83,
+    "Gold_price": 3098.28,
+    "Oil_price": 66.61
+  },
+  {
+    "tick": 360,
+    "date": "2025-12-27",
+    "BTC_price": 62472.08,
+    "Gold_price": 3093.23,
+    "Oil_price": 65.8
+  },
+  {
+    "tick": 361,
+    "date": "2025-12-28",
+    "BTC_price": 59970.98,
+    "Gold_price": 3086.14,
+    "Oil_price": 66.07
+  },
+  {
+    "tick": 362,
+    "date": "2025-12-29",
+    "BTC_price": 62659.74,
+    "Gold_price": 3103.16,
+    "Oil_price": 67.19
+  },
+  {
+    "tick": 363,
+    "date": "2025-12-30",
+    "BTC_price": 65142.58,
+    "Gold_price": 3107.11,
+    "Oil_price": 68.05
+  },
+  {
+    "tick": 364,
+    "date": "2025-12-31",
+    "BTC_price": 65769.38,
+    "Gold_price": 3101.05,
+    "Oil_price": 66.02
+  }
+]
