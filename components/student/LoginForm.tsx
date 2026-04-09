@@ -121,25 +121,9 @@ export default function LoginForm({ onLogin }: LoginFormProps) {
           </button>
         </form>
 
-        <p className="text-center text-xs mt-6" style={{ color: "var(--text-muted)" }}>
-          Starting balance: <span className="mono font-semibold" style={{ color: "var(--accent-gold)" }}>
-            $10,000
-          </span>
+        <p className="text-center text-[10px] uppercase font-bold tracking-widest mt-8" style={{ color: "var(--text-muted)" }}>
+          Starting Portfolio: <span className="mono text-white">€100 + 2 Assets</span>
         </p>
-
-        {/* Admin Link shortcut */}
-        <div className="mt-8 pt-6 border-t border-white/5 text-center">
-          <p className="text-xs mb-3" style={{ color: "var(--text-muted)" }}>
-            Organizing the game?
-          </p>
-          <a
-            href="/admin"
-            className="text-sm font-semibold hover:opacity-80 transition-opacity"
-            style={{ color: "var(--accent-blue)" }}
-          >
-            Open Teacher Dashboard →
-          </a>
-        </div>
       </div>
     </div>
   );
