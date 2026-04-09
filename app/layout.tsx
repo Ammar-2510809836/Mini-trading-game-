@@ -3,10 +3,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Mini Trading Game",
+  title: "Mini Trading Game - Bubble Experiment",
   description:
-    "A real-time classroom trading simulation. Buy and sell BTC, Gold, and Oil — may the best portfolio win!",
-  keywords: ["trading", "game", "classroom", "simulation", "finance"],
+    "A classroom experiment on Market Efficiency and Bubbles. Trade dividend assets and analyze fundamental value.",
+  keywords: ["bubbles", "market efficiency", "finance game", "economics", "trading simulation"],
 };
 
 export default function RootLayout({
