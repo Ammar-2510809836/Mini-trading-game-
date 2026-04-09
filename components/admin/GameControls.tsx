@@ -58,13 +58,19 @@ export default function GameControls({ gameState, onStateChange }: GameControlsP
         is_playing: false, 
         market_price: 15 
       });
-      alert("Database wiped. Ready for fresh start!");
+      
+      // Auto-reload to clear all charts and lists
+      window.location.reload();
     } catch (err) {
       console.error(err);
       alert("Failed to reset database.");
     } finally {
       setLoading(false);
     }
+  }
+
+  async function toggleMarket() {
+    await updateState({ is_playing: !gameState.is_playing });
   }
 
   async function handleNextTick() {
@@ -122,17 +128,27 @@ export default function GameControls({ gameState, onStateChange }: GameControlsP
 
       <div className="grid grid-cols-2 gap-4">
         <div className="bg-white/5 p-4 rounded-2xl border border-white/5">
-           <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Current Round</p>
-           <p className="text-3xl font-black mono text-blue-400">
+           <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Round Status</p>
+           <p className="text-xl font-black mono text-blue-400">
              {gameState.current_tick + 1} <span className="text-sm text-white/20">/ {GAME_CONFIG.TOTAL_GAME_TICKS}</span>
            </p>
         </div>
         <div className="bg-white/5 p-4 rounded-2xl border border-white/5">
-           <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Intrinsic Value</p>
-           <p className="text-3xl font-black mono text-purple-400">
-             €{GAME_CONFIG.getFundamentalValue(gameState.current_tick)}
-           </p>
+           <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Market State</p>
+           <div className="flex items-center gap-2">
+              <div className={`w-2 h-2 rounded-full ${gameState.is_playing ? 'bg-green-500 animate-pulse' : 'bg-red-500'}`} />
+              <span className={`text-xs font-bold uppercase ${gameState.is_playing ? 'text-green-500' : 'text-red-500'}`}>
+                {gameState.is_playing ? 'Open' : 'Closed'}
+              </span>
+           </div>
         </div>
+      </div>
+
+      <div className="bg-white/5 p-4 rounded-2xl border border-white/5">
+          <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Intrinsic Value</p>
+          <p className="text-3xl font-black mono text-purple-400">
+            €{GAME_CONFIG.getFundamentalValue(gameState.current_tick)}
+          </p>
       </div>
 
       {/* ADMIN PRICE SETTER */}
@@ -158,6 +174,18 @@ export default function GameControls({ gameState, onStateChange }: GameControlsP
       </div>
 
       <div className="flex flex-col gap-3">
+        {/* Toggle Market Switch */}
+        <button
+          onClick={toggleMarket}
+          className={`w-full py-4 rounded-xl font-bold transition-all ${
+            gameState.is_playing 
+            ? 'bg-red-500/10 border border-red-500/20 text-red-500 hover:bg-red-500/20' 
+            : 'bg-green-500/10 border border-green-500/20 text-green-500 hover:bg-green-500/20'
+          }`}
+        >
+          {gameState.is_playing ? '🛑 CLOSE MARKET' : '🔔 OPEN MARKET FOR TRADING'}
+        </button>
+
         <div className="grid grid-cols-2 gap-3">
           <button
             onClick={handleNextTick}
